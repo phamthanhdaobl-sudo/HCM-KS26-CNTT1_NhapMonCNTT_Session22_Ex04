@@ -148,28 +148,6 @@ Trong tình huống này, em ưu tiên nghiên cứu giải pháp 2 nhưng vẫn
 Qua đó, em rút ra rằng một giải pháp kỹ thuật tốt không chỉ cần có độ tin cậy mà còn phải phù hợp với môi trường sử dụng hiện tại và đảm bảo an toàn cho hệ thống.
 
 ---
-
-## 7. Cấu trúc repository GitHub
-
-**Tên repository đề xuất:**
-
-```text
-HCM-KS26-CNTT1_IT-101_Session-20_Bai-4
-```
-
-**Cấu trúc thư mục:**
-
-```text
-HCM-KS26-CNTT1_IT-101_Session-20_Bai-4/
-│
-├── README.md
-│
-└── images/
-    └── stackoverflow-comparison.png
-```
-
-**Ảnh minh chứng đề xuất:**
-- Ảnh câu trả lời thứ nhất có Accepted Checkmark và 500 Upvotes.
 - Ảnh câu trả lời thứ hai có 50 Upvotes.
 - Ảnh bình luận xác nhận tương thích với Windows 11.
 
